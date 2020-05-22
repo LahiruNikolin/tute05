@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "598526974265",
+    "firebase_url": "https://tute05-97018.firebaseio.com",
+    "project_id": "tute05-97018",
+    "storage_bucket": "tute05-97018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598526974265:android:08b9f9d037b34940fe70e8",
+        "android_client_info": {
+          "package_name": "com.example.tute05"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598526974265-06ku1inrq7h2qc99n5cr3bcbvugm5g7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcxiq5oaGxKI2DGULm-XWnARcS0LBAmjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598526974265-06ku1inrq7h2qc99n5cr3bcbvugm5g7b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">tute05</string>
+    <string name="ID">Enter your ID</string>
+    <string name="name">Enter your Name</string>
+    <string name="ADDR">Enter your Address</string>
+    <string name="CONT">Enter your Contact Number</string>
+    <string name="save_btn">SAVE</string>
+    <string name="show_btn">SHOW</string>
+    <string name="update_btn">UPDATE</string>
+    <string name="del_btn">DELETE</string>
+</resources>
